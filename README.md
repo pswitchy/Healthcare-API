@@ -277,7 +277,7 @@ This project implements a backend system for a healthcare application using Node
 
 ## Testing
 
-Use a tool like Postman to test the API endpoints.  Remember to include the `Authorization` header with a valid JWT for authenticated routes.
+Used a tool like Postman to test the API endpoints. The link for tested API endpoints is https://www.postman.com/parth2101754/workspace/my-workspace/collection/39067872-22bddc06-ee79-4f39-8501-33a6f598b582?action=share&creator=39067872&active-environment=39067872-165b64bd-8d58-416a-babe-cd91e08c8608
 
 ## Error Handling
 
